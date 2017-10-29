@@ -5,6 +5,8 @@ Created on Sun Oct 29 13:52:26 2017
 RANDOM FOREST REGRESION
 @author: devaraju
 """
+# Dataset for this model is Position_Salaries
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
